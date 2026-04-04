@@ -40,16 +40,16 @@ a:hover {
    color: var(--brand-color-light);
 }
 
+img {
+   max-width: 100%;
+}
+
 .container {
    max-width: 1280px;
    margin-inline: auto;
    padding-inline: 32px;
 }
 
-.grid {
-   display: grid;
-}
-
-.grid-column {
-   grid-auto-flow: column;
+main {
+   margin-top: 40px;
 }
