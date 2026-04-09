@@ -11,7 +11,7 @@
    --stroke-color: #1E293B;
    --text-color-primary: #F1F5F9;
    --text-color-secondary: #CBD5E1;
-   
+
    --font-family: "Archivo", sans-serif;
    --h1: 800 24px/135% var(--font-family);
    --h2: 800 16px/140% var(--font-family);
@@ -27,7 +27,9 @@ body {
    font: var(--text);
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
    font: inherit;
 }
 
@@ -51,8 +53,14 @@ img {
 }
 
 main {
-   margin-top: 40px;
-   gap: 80px;
+   margin-block: 40px;
+   row-gap: 80px;
+   column-gap: 32px;
+   grid-template-areas:
+      "featured featured"
+      "weekly weekly"
+      "ia aside";
+   grid-template-columns: 2fr 1.3fr;
 }
 
 .content-tag {
