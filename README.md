@@ -1,4 +1,6 @@
-# Tech News
+<img width="800" height="1246" alt="preview-tech-news (1)" src="https://github.com/user-attachments/assets/115e1daf-a928-4f3f-ae26-b9b0a207acfd" />
+
+# Tech News - Portal de notícias
 
 **Portal de notícias** sobre tecnologia, desenvolvido com HTML5 e CSS3.
 
