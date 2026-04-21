@@ -1,4 +1,5 @@
-<img width="800" height="1246" alt="preview-tech-news (1)" src="https://github.com/user-attachments/assets/115e1daf-a928-4f3f-ae26-b9b0a207acfd" />
+<img width="800" alt="tech-news-preview (1)" src="https://github.com/user-attachments/assets/14f0145e-574b-46eb-891e-5a67cf12431c" />
+
 
 # Tech News - Portal de notícias
 
