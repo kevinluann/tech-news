@@ -6,6 +6,8 @@
 
 **Portal de notícias** sobre tecnologia, desenvolvido com HTML5 e CSS3.
 
+<hr />
+
 </div>
 
 ## 🎯 Objetivo
