@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+<hr />
+
 # Tech News - Portal de notícias
 
 <img width="800" alt="tech-news-preview (1)" src="https://github.com/user-attachments/assets/14f0145e-574b-46eb-891e-5a67cf12431c" />
